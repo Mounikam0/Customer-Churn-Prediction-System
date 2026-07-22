@@ -19,6 +19,7 @@ A machine learning project to predict customer churn using the Telco Customer Ch
 pip install -r requirements.txt
 streamlit run app.py
 ```
+Live link: https://customer-churn-prediction-system-udv4e3sxrvldfjazibxekz.streamlit.app/
 
 ## Results
 - Best Model: Gradient Boosting
